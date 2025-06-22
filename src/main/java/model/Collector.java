@@ -8,9 +8,14 @@ public class Collector {
     private final PrivateKey privateKey;
     private final Set<String> receivedTokens = new HashSet<>();
     private final Map<String, Integer> voteCount = new HashMap<>();
+    private final Map<String, String> voteHashMap = new HashMap<>();
 
-    public Collector(PrivateKey privateKey) {
+    public Collector(PrivateKey privateKey) throws Exception {
         this.privateKey = privateKey;
+        // Precompute known vote hashes
+        voteHashMap.put(CryptoUtils.hash("A"), "A");
+        voteHashMap.put(CryptoUtils.hash("B"), "B");
+        voteHashMap.put(CryptoUtils.hash("C"), "C");
     }
 
     public boolean receiveVote(String encryptedVote, String token) throws Exception {
@@ -39,8 +44,12 @@ public class Collector {
         CryptoUtils.logToFile("Total Voters: " + receivedTokens.size());
         System.out.println("Total Voters: " + receivedTokens.size());
         for (Map.Entry<String, Integer> entry : voteCount.entrySet()) {
-            CryptoUtils.logToFile("Hashed Vote: " + entry.getKey() + " → Count: " + entry.getValue());
-            System.out.println("Hashed Vote: " + entry.getKey() + " → Count: " + entry.getValue());
+            String voteHash = entry.getKey();
+            int count = entry.getValue();
+            String candidate = voteHashMap.getOrDefault(voteHash, "Unknown");
+            String summary = "Candidate " + candidate + " → Count: " + count + " | Hashed Vote: " + voteHash;
+            CryptoUtils.logToFile(summary);
+            System.out.println(summary);
         }
     }
 }

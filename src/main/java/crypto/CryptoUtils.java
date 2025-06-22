@@ -18,6 +18,7 @@ public class CryptoUtils {
         cipher.init(Cipher.ENCRYPT_MODE, publicKey);
         String result = Base64.getEncoder().encodeToString(cipher.doFinal(data.getBytes()));
         logToFile("Encrypted Input (Base64): " + result);
+        System.out.println("🔐 Encrypted Vote: " + result);
         return result;
     }
 
@@ -26,6 +27,7 @@ public class CryptoUtils {
         cipher.init(Cipher.DECRYPT_MODE, privateKey);
         String result = new String(cipher.doFinal(Base64.getDecoder().decode(encryptedData)));
         logToFile("Decrypted Output: " + result);
+        System.out.println("🔓 Decrypted Vote (hash): " + result);
         return result;
     }
 
@@ -33,12 +35,14 @@ public class CryptoUtils {
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
         String result = Base64.getEncoder().encodeToString(digest.digest(input.getBytes()));
         logToFile("Hashed Input (" + input + "): " + result);
+        System.out.println("#️⃣ Hashed: " + result);
         return result;
     }
 
     public static void logToFile(String content) {
         try (FileWriter fw = new FileWriter("output.txt", true)) {
             fw.write(content + "\n");
+//            System.out.println("📄 Log written to output.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
