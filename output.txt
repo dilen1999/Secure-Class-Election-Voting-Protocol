@@ -82,3 +82,308 @@ Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
 --- Voting Summary ---
 Total Voters: 1
 Hashed Vote: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0= → Count: 1
+Collector's RSA Key Pair generated.
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Encrypting hashed vote...
+Encrypted Input (Base64): NWwDCXZdBYCeVzOpX2Oc6+4i3WvCieQdw5PUsHZb/j5zrN9xK0PefnvJl2M0x0eUxmm/0+u7TXEdytS5q7I2tDIzeNCO8mJB9BHXEoNL/9mkPk7IhWAR8NAfrBxD6DYVflXUq/vDHP34QtnURWwJQaYcQCtQo565FflnJGCd7JfURMzXnKNXC39eUkpwmNduH/xejmZAUbGLFqjDPueO/LbGnjf7ptHHVE1hEkuSPZ1MFviTW9RkXMWRRE0HhlHgpta61ktfOTeiWZ2EC0MvdMvwI2K3BSDD2Qsa75/fREuh6pUaK7be6gTe9wEaP5Vz90ScI2gQDnzdwA+Bhy93vg==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Vote received and verified (hash): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+
+--- Voting Summary ---
+Total Voters: 1
+Hashed Vote: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA= → Count: 1
+Collector's RSA Key Pair generated.
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Encrypting hashed vote...
+Encrypted Input (Base64): W0V2eyeODBZLSDHuOq9hePSlZWjn+IolmV/ZlqG5g2Jef0FQfpPCY0MP9BwE7EWPjt1XGL6710hKGpYNJLBbz+wTWrDhcJFLuAKvNIhvetriCRmEty/r0o5EwPCXlHc34BeGcQ+3tAhNpJhiEv6TtLu1rr8tKziRZNrTWhAd6rCD4ukIR8Mg3Gk4kAcSgZf8sQXbM73B30NLzX6oigaadhNhPUzwMfYCMrqZAnqCoBQAHoVR61XrC8nur1Z7YQVbCYN9bDno2EvQEmUzcE23qEz2QCZ+lpRLIUqOoD0AjG/TCySUAiUowxtH+BcA62F85CS0b6Pbnbq0H6t0z38ROA==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Vote received and verified (hash): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+User input - Username: kasun
+User input - Password: 234
+User input - Vote: alice
+Generating token using: kasun234
+Hashed Input (kasun234): F5nkdWQydbT216fcHxirsGAc5n3BSgarBc+/BmZ2RrI=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Encrypting hashed vote...
+Encrypted Input (Base64): c2/YfOXrZ7gYB8ko8k4xD5tGW+uMuLKvw3pDEsaMObVkZhsdUF7CiOTWWOP45T47NgC3D/ySt0SjL7/0WoHlgU3MeWHJH9lrKg8aOMn1tqkE7TgghBHTVjt2t78WNTzMNUqLs6hZw2UABni3uHEkOwpr9J86HJJMcI1eUOJZnl8SsWaAvIljUvrRAcD0HdJQJH0AbBZZt1Nnra+2JJgvRrNjhqYFjIvJ6CDsot5sAo+jwyxYRewRarZZOfobdxAq/VeUh1idOrGLJRYw8Ou5So7cpK/dENshMX5tjg5DLlgx0bThxKXd5dePIDtOsW4kjmI9o8ujtZmay6/uzPgyWA==
+Receiving vote with token: F5nkdWQydbT216fcHxirsGAc5n3BSgarBc+/BmZ2RrI=
+Decrypting vote...
+Decrypted Output: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Vote received and verified (hash): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+
+--- Voting Summary ---
+Total Voters: 2
+Hashed Vote: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA= → Count: 2
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: Alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): Rq9+lKFw980sUt/+ey+a2Z05WxdeM0DTXsdnCfXOoTbOKFrsU+CZXYoPPc5RVamMK2fOlJ8WaleqxBvIiAuEo9uJPMQWvCHS2easPDsWAyvHQTxlEKAcH3z0jaQFp5UhNfDuBA+YEiwn+kNqRoRlRw8sjwdgMrfpkt/xooiyOoOADwryzLlGhEzLc4qssjwgCOC/z8KR01b182qsCLE0KFN1M/TCZDxSW0oUnjnms/k8t4UEgm0Mm4WTE8PSSLOnk7dp19AL0oWywwPIICM2k/1pmSskQHdj/U1IyHaFMov90OrTiGhwwsv6Hp7khn+w1m/WBObXOXXHYlmPuosDZQ==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+User input - Username: kasun
+User input - Password: 234
+User input - Vote: Alice
+Generating token using: kasun234
+Hashed Input (kasun234): F5nkdWQydbT216fcHxirsGAc5n3BSgarBc+/BmZ2RrI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): gzPW8BBl/J4W2T4aVC+87TKV4MhAUdqj27mznABI2ki0WjDhc/B1xmVszcOSS6U0oEMRRrtRnHIFAJTcH/IXlM4rqblKHNV5nO3PWhzpr9auwsSNHqhaR2wRBBw2iM3gPKJu/a3cb4FAMsAtU9ps7NfGNzMs5D6Mn5ABZo5BvQ2HK8n5qW/Rn22Gt6WEu17cXlPE34owk2yojBTEZWRt6emF/ZqO/f02aF+TstwZtRp/33x6UrtMUlAtKlzZxty1W+oatwM8q9EVlixU0YBvM4DIKQXNp399CuIy6Q3kvgmqUKcCRw99g8Rr+i50UKnTMHZomfMWNAVReVoIFALPfg==
+Receiving vote with token: F5nkdWQydbT216fcHxirsGAc5n3BSgarBc+/BmZ2RrI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+User input - Username: jima
+User input - Password: 345
+User input - Vote: Bob
+Generating token using: jima345
+Hashed Input (jima345): lXeICJSpqoVFjA4J7RxK/3T7gB1PCHS9aD85uX24ZSM=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Encrypting hashed vote...
+Encrypted Input (Base64): VFnGruO3812Kp6GhiHh50KboPfgQVLAgV6LRqD4yWNLxjeeFST1PsMEnJQLed8GBzGXTewXt9gIataMqlpoMdYmRps+aQCXLrMwPRByRNXoz9BqrVK1ToKQB3UBuFR6Xv+VBLnkPs5X8DBM6JrBuiyEsmjcJCvadyKUQVGMoy8crSjJDqgrFFm0PcnulLivMeJ5cDi62aexFOhR/FWVZX55ZeW2CGS5qvVXpiBKlMQJidp3KRKBPs9ELfrZwiybf8l4U7IsmHmYA/JEYj5UL/oSaU+z9ML9bgEkesXQx0TEJdBMDEy/mD93SDJ5GbprD5WqFq8iEt2GWR13W+elfGA==
+Receiving vote with token: lXeICJSpqoVFjA4J7RxK/3T7gB1PCHS9aD85uX24ZSM=
+Decrypting vote...
+Decrypted Output: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Vote received and verified (hash): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+
+--- Voting Summary ---
+Total Voters: 3
+Hashed Vote: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM= → Count: 2
+Hashed Vote: zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE= → Count: 1
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Encrypting hashed vote...
+Encrypted Input (Base64): Sio6gMhGy9Uho7uVdhU7t4iopZTj2w1UwmMQIFbSrr5BWEfWHq2TBu1HhXChXvBijq+wcsz0ThxbQ8LU5nCjWd8mnLdm+gfq5hTphLFd0kKgcMuImVz83MU2PHskKNPCXD16AHa1WyFHBhUDnxFOt+qjVDG08uGx+nLla1eJGwxk6t734xUODmG0A0ieL0yPmH0rgJdRN240GekdrxetZuaasBhQ/GXPx7cgp/FXLwHunS0T8copKeT4pO/e+rkEPtZmkX1UDSy2nNvbwStN2ErJNbJCq1l/xvJR+fwP/NEU6j2aexEMVpIGaozhyDwj2BLm9dbAFpC3FTZDIQcwzw==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Vote received and verified (hash): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Encrypting hashed vote...
+Encrypted Input (Base64): t1eJRMRb9pFBtZz6rmYGuuoZl1i1e6hxiV6pGhNo5enccqeHP0Jqb3n9XnvKM9f+AoyFQmzAjkVXx8SSi/6LcboBBd5ByB4xu6+AtbsP/VCxhNjLf2tF8JHQOpNSJPIUmLh0X3ET3Gk81r8DUCKcn4IHTHoMCVjQ6IKJtymUqFV9HNAM2gknNtxYGHFmiplQkiP5NsU4iXgmhSAMJqtPKUzGB8kZqN9zCQnxBJCrcKrXOlMQwoToIxooknDNmPP6R2Fy8A/Lqz9WC8+FB3mYoY5RYgBfUaL9VKws5s775QG2eZ/kaEnNY96w5W00IJVJfVUGEHugOelwsdLZ5roYrw==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Duplicate vote detected. Vote rejected.
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: alice
+Hashed Input (alice): K9gGyX8OAK8aH8Myj6djqSaXI8jbj6xPk69x2xhtbpA=
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: Bob
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: sayu123
+Hashed Input (sayu123): LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Receiving vote with token: LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Decrypting vote...
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Generating token using: sayu123
+Hashed Input (sayu123): LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Receiving vote with token: LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Decrypting vote...
+Collector's RSA Key Pair generated.
+User input - Username: sayu
+User input - Password: 123
+User input - Vote: Alice
+Generating token using: sayu123
+Hashed Input (sayu123): LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): pN5flDXJtxqqR7eQrUgj/rGjUelYljayL1+faSOn7UyADm/jBgK30zu8VnY6oyleX15pxqVL7UespycGkhOfswbJLV5DXpU2PLDL9oXTxvcSJXzJTbcihy9ozJvlgZo/jZSKK5foetHcXCYngF34gZAfZuhfAywcqhbt+VBBxHo45BTfi5Ph/2qMZuoopUxxea+bYerPmARv5Cz8BCuq/9Imj5Fi59uVOpl0YKhrqQcv4E+pYr9EXVerbmaFJtXlpeuIzW5KCm4HOyOjQmbrcbZtwtZHkVXb+/qs01qnYN447O/d31kKagRXNieGsSkBowk7xVhotcf0VKTiIHKwmg==
+Receiving vote with token: LQ+LcWXIfP4F/nk3eIZFj2+UKbfSBWPZ3KIxVZtKBGI=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+User input - Username: ga
+User input - Password: 12
+User input - Vote: Alice
+Generating token using: ga12
+Hashed Input (ga12): VOAc/S6VXvmI1JPdrS1/s48LEX3dtuSDGCsjHIO/qDE=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): VFXx6CIDzTesH2g1HOROAaZ/LgEEFFX2UZPYrabr9/gVdqkaRpkmfsyVGlDsBPXNcHJDtWIjswp6hLp8MuZgAMJZDPdMnxC3ND/BHuNdFMkur35/dsieC/3c1rIBOl4V8B0LX3jaHVqT43ATbGjO+6eKGOVekOd1YNjJwrp+omQsOsTGdpM3S6kGNMnX+x28+KaHuThrQ7JOEk+DNrW5zkol68ytPfeQiKTfpTwjsjb9jPjHXg8HU/PNVuSSOThZtsl04xO3jlb3uTUOflecQLDzdhLl21pTkdRltZV43Q24FETb/j4yVqmplA3X0Fx9JQPHEiOuG+CK99m+YMBq0w==
+Receiving vote with token: VOAc/S6VXvmI1JPdrS1/s48LEX3dtuSDGCsjHIO/qDE=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 2
+Hashed Vote: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM= → Count: 2
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: Alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): UWqwBTkq586gzBhsiGoWc8t+0rJt10qlsvldTIl65kzdwxx1fsTPTB+/wvw92wGQuac1lTfpYFE9aizBrlAuSUXvaTlFKEOShAVTN3eyAw5kC+OUD4dyKzGlrC2Zzn9aTZ1ewUWrzwHEIIKHQuRYiWCsm7+3Jf+6LFnDPOHKd937yr3Cus+ZWEApCAS1i9KB41KA8s5NeOLEYbKJJ9ZrterZU3KQFiFZPWKSp1Q2kMNHv2YMaAp0OeRmngv9yEm7I74qDuhOuDpNdmiQN/eapFr70Wh0pO/HjKjLbXQusahT+dDerocGV4y5qYP0Uvg13Zm3pxvf0eBG5zPeGeuixQ==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 1
+Alice → Count: 1
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+User input - Username: sayuri
+User input - Password: 123
+User input - Vote: Alice
+Generating token using: sayuri123
+Hashed Input (sayuri123): XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): QhESxUREKyexYQ5uyJNykmSWSDysYozdCWFodLKpGvZgZMMkNQnFsfnQWm0L1obCaXba7zE2LINKuQFM0AxPPqLL5do0iUrFQ6dLdbc2bPoxI51FnCvgJqldw5iUy4gQ5qC45un9k5pTTf/dasB5+C+z/FMetXYuqd+fXmGCc6qk+FIT+a9flDYLnZprvVV3HlCkND3delVvgNZdwLcwwsCqBaNhPINsLaEii6M8WVVwxYjISho/B5SxEEg5vjyYUicZjiEPNHSbUCiVKoA2uOy/XEl+a5ov8PvMLQ/wDVNErX8DJdTB4znLXwFDTE1ajr5bwDmohCNMRwMry3VRbA==
+Receiving vote with token: XBPZxX5LU54IXg3xS1jNsMSRMfSPCm247R1DRMlAc34=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+User input - Username: sa
+User input - Password: 234
+User input - Vote: Alice
+Generating token using: sa234
+Hashed Input (sa234): 7vSr1/zG1lczp/yMym3bJKXyPSQByg4CcFoffSSfMmA=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): GN1mtmQm2Nivg3jnbrqpW8oOrLditAv+RzAjTuIyBimWGKmoXvDqvUc3G082s+Y3bGAnheUWFGwj3dZrF+AVxFFIOtbiY1N8f6TpqcQv79De1KwJ887VLUa8O+xz67v5EllD5+FJF2SLHxo/xHLC1JLwi8wBOSRsjdvPvUDfvtH8T2OsujEcmcBszvHZYqXJzDfzgk+3/y4mkt00fYuvSWxezXDHLlYixcvFBcytT26FF8WiPAZM7qXB6F02uIUp/Vmc526pm9Smc5C5IB2k1aAqzklWsjQs+f6jDGdJ6fnYT5KcsUebvT9dIwYrzWKXSA0Aj4oix8jYk9garFBiQQ==
+Receiving vote with token: 7vSr1/zG1lczp/yMym3bJKXyPSQByg4CcFoffSSfMmA=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 2
+Alice → Count: 2
+Collector's RSA Key Pair generated.
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Hashed Input (Bob): zZ+x4UjM2EQuWqdJBMxzv2+1TR1U0zO9WWqpu0u06WE=
+Hashed Input (Charlie): boGxJVrVG7IBorivqbZmUyl64CF/gzsUs5tSMSKL+Wg=
+User input - Username: Sayuri
+User input - Password: 123
+User input - Vote: Alice
+Generating token using: Sayuri123
+Hashed Input (Sayuri123): 8cibnBujfTxmJzyGJX6WjhpHBnytUlWKToFtIPqTY9o=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): D4jFOW8uNMOXYOVjhdpYG5bPU6SMKLpWvVKOom5/dIN1nz/Lqctbq23Y7ibrjW/Kg7eeSZY16URFw19aDSmrH2FAUU/rI/Ctomf1YfMlfAHF1cvxxr/TdY/PC4a6dFfx/qNDIV+F4/m8fgGKya5l0ByrxPKkQ0I/x9d1qctPjUDJ8+d42n0o/jqRgk+8mi2SKeUl8I7gTBJyrl0r4KrfZK1E0pdAZU37xj/0O08GCqbno89Ok4jiMJPxDfhd2AC9hJ6qT0bpWg6RvzV8rDOSzgimzCIWyTGU7ezZ4tpSNLUPTj6ctDeJv//5aWBZGpd7qCgBDUUOMXXMeucuQRms1A==
+Receiving vote with token: 8cibnBujfTxmJzyGJX6WjhpHBnytUlWKToFtIPqTY9o=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+User input - Username: asj
+User input - Password: 234
+User input - Vote: Alice
+Generating token using: asj234
+Hashed Input (asj234): 7braKMs7lheoCCTOZJ8KjQsCnLd2c4kFTiPwz1MtRYs=
+Hashing vote choice: Alice
+Hashed Input (Alice): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Encrypting hashed vote...
+Encrypted Input (Base64): CDaBAtzwHTPmy1cSr4z9DK2HJxyKLeIkr5yDt+xF2Y49u+wNWYro2uodQ1XUyKM2Aq+scBE4YxwgGiVsLU2y+5Zwz2RERMB2JuRFsQFPt1XKOTMb7kPK13TzBt/nPS9gXbG65JyCVjn8oU6patC4jiJKpz3COpot1UI4+jvN5OdpyAVHLUNbbbC1BQVa21EY2mlNIeJZj2GMXeg/pWRgu/fd20tAt6i8zDAUh9tlDvbKKHvDdMZuiDc0HuNIHklgDh33Ni2i1oY5sudw1dnnHq/wcmlzMCQfI9ZqSH1XSfCDixvyx+p7IGR64Hse7UbUeE5hE/WhdcW77XU2W78n6g==
+Receiving vote with token: 7braKMs7lheoCCTOZJ8KjQsCnLd2c4kFTiPwz1MtRYs=
+Decrypting vote...
+Decrypted Output: O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+Vote received and verified (hash): O8UQYpc8RY1aby2NZKAjJGNUrX4GSx5OAJ7IoGmaMEM=
+
+--- Voting Summary ---
+Total Voters: 2
+Alice → Count: 2
