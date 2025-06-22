@@ -1,0 +1,84 @@
+Hashed Value: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashed Value: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypted Data: ZLtW5pjxnaD/UBi3RfcKnNLHdioR9UT4YnNolOC4oZgR/kXvyTEHQe0CQDTxr2w07RBwMjUlWCQyt8tBNcd+eDMW4yqgdRgljHQY7oon0mJ4F6I8zorj5xTUXUWI8DKIweuLmg4GFEVAzjrJIqOr7YiIaX9KDAiw6AC6wzmzETsI8lczCdFsqKKxysd2nMOiUAdKCaYTIkDXCB1TGo/QoWU2ecQIqVhnlbFNcX6uzW0afCN6nwJ/2CCHVodu4IR+RbEP8zT6UyixhN6QBWk5UIFJKm2MCPeX8Jv2QRYXTbk1JsrFR0DdRcFJsdrTpvBKAcAMsnceLLRY03dnbOeSxA==
+Decrypted Data: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Collector's RSA Key Pair generated.
+User input - Username: dilen
+User input - Password: dilen123
+User input - Vote: A
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: A
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypting hashed vote...
+Encrypted Input (Base64): VJaY91oGhopui37PEe++m9Z49CISjolL6580fXrnGoBaDB4i8cv9J9vQPKlUx1b/YW7yjPbonJbh26c/qa1dDehRW/fmpAcZJYugsM5/jPO+CZlug/xLR3qjxBbzqj5TZ7VMgBixLr50sZEU0ku55Ym9sXdt/vtWVIHwLWtuVLqvdbos8YSAZtMooPc/C9Es7WjF+U9tos/V6W3673wk8nl238AbW3NoVL87sVFqL1xBq50brzUCDBl6467PDz9hZOTl9+T0Pz4IKibqE254qNqXikPGiDXbnJmkHybdB8WBRSyr4NVEnUjqC+8FSNs5p0CrXJXfrnLevZArqyk+/Q==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Collector's RSA Key Pair generated.
+User input - Username: dilen
+User input - Password: dilen1
+User input - Vote: A
+Generating token using: dilendilen1
+Hashed Input (dilendilen1): 3K7rH/jX4yR8k6QEtV5aTNi4oWLv5sBLVQlyLmbxR9Y=
+Hashing vote choice: A
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypting hashed vote...
+Encrypted Input (Base64): aePj9d1rl0k8hNrfkn13Rub2dSGTZ92Q3dLRbogWi07x0tJgpNowrs8BaBgz/ik3qCVHZnTPVB2BpPXE4X+LswFhigRAxsRFP3Gb/a/xadPuoU9aBY/pSw4PgOfmfDQ2XtyCf1l8NzkkCLMAB5g0snzBzWGI6hu6+udKKWW1JyYz63x4P1iIx7kd9f2NbceAufykD4AU1KDgPtQlwROaieNmTC6CyH5skYCZEQBZ0s4X9wz4jqC48M58bM+IMr6hTyKpIbKoJ/PTZ9uVXU5PpPX0NyZNxsLsQSMFZV1dyHSz0S5Pv8RjfX5QbqHQIfzDbWxPxJPAxjv8FfyblaMs7w==
+Receiving vote with token: 3K7rH/jX4yR8k6QEtV5aTNi4oWLv5sBLVQlyLmbxR9Y=
+Decrypting vote...
+Decrypted Output: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Collector's RSA Key Pair generated.
+Collector's RSA Key Pair generated.
+User input - Username: dilen
+User input - Password: dilen123
+User input - Vote: A
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: A
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypting hashed vote...
+Encrypted Input (Base64): p8L/BRomsxZt5BPxABscfqQWMNpBiyripbj8S1lzd2Nw6wWqWkJzmwO7gdpq0fno9w3k7aSDFFz6c2QTzroisClgutHfbU4SduqSSOQT0nULHDymvGF25kD3lCDeDR8wlMPa442A6aa1EdCz2kkun+WOzXpAFiyi5SYW+OQPWr94kB+smfRn2ckU9VUByRfZ4ocRLuw/IPtz6jWWXopD+N0chaC+v8oE/hmItQRSW726q6V/TRChXGCAGVFRSdbBzpT7wskzZEMFxkWMs6qSgpl/1ZT7qRnOtjj1FlQB4EzOpRAWjilGzS45KjcXMcKR+1wTHhbAF0iZO0ytpM/lxA==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Collector's RSA Key Pair generated.
+User input - Username: dilen
+User input - Password: dilen123
+User input - Vote: A
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: A
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypting hashed vote...
+Encrypted Input (Base64): bDGzKhrwm2AMwO5p2S2qxrzLRtq3kBkID2fLhT4GQj2M/I5LO/3Om8Rn+rADvVswZnH5XbtWGTVogE/j5VeQBHMsazXtW2xkGy1G3AvnUGVDKbtEn0MGMiRKwhv+fzZXzJ3EmjsnxtqCrOauNtxlL5zhzf+3hb+zjGWddWdccjGGgIwdFGYlipco/mDlSuw6X70HV0m7djsgTgWaGsmuaqPRAWsHf2d+M2xdaEfBrwtaUC5Eik4F22+t7seo/4b7tzyn4Oll04hHC6/vDPM3WdEdmCxxosBayVov6CD7+V1RD4sHMvcebQIFLShtuHK1yOW30vI+s1aS8NOo0B9Dsg==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+
+--- Voting Summary ---
+Total Voters: 1
+Hashed Vote: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0= → Count: 1
+Collector's RSA Key Pair generated.
+User input - Username: dilen
+User input - Password: dilen123
+User input - Vote: A
+Generating token using: dilendilen123
+Hashed Input (dilendilen123): 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Hashing vote choice: A
+Hashed Input (A): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Encrypting hashed vote...
+Encrypted Input (Base64): C2nkytvvjRR/IaPLSPfk4lHE6IzqtAa8l9f8FlJeTKDkbczIuPo7UbmnP6cnUqP8sXUIdHwaiBQ4qiQxfRuA7Zhlf7TkU3mFqSSboi/AZqumRrCAi+pDpKgW4JBpFxPR54P5Dwh9UUnidHo5lH3bwvxuES7xiaoGVFQt8ei6hqMfvj3f4jh5v+DXzTbo5v63a1sWzf23LDb8q/5+1ZJO29bXHmP5B/NoQcJ3fETlCOfg/JKoZKkgvQCyHwHIs5P56eom6r7dMBXLLSMLMzp2Gp8+DpGXIHYHeve1ouHaliZSkjlhkXJ2Da0naQrmn08u4Rp2vk1LYnfBiF9pqDs7cw==
+Receiving vote with token: 1zuYgothF0DTM2JUCxCyk4yR03KSmC8p0ozxrwJ3uEI=
+Decrypting vote...
+Decrypted Output: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+Vote received and verified (hash): VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0=
+
+--- Voting Summary ---
+Total Voters: 1
+Hashed Vote: VZrq0IJk1XldOQlxjN0Fq9SVcuhP5VWQ7vMaiKCP3/0= → Count: 1

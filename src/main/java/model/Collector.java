@@ -38,18 +38,26 @@ public class Collector {
         return true;
     }
 
-    public void showResults() {
+    public void showResults(Map<String, String> candidateHashMap) {
         CryptoUtils.logToFile("\n--- Voting Summary ---");
         System.out.println("\n--- Voting Summary ---");
         CryptoUtils.logToFile("Total Voters: " + receivedTokens.size());
         System.out.println("Total Voters: " + receivedTokens.size());
+        
+        String winner = null;
+        int maxVotes = 0;
+        
         for (Map.Entry<String, Integer> entry : voteCount.entrySet()) {
-            String voteHash = entry.getKey();
+            String candidateName = candidateHashMap.getOrDefault(entry.getKey(), "Unknown");
             int count = entry.getValue();
-            String candidate = voteHashMap.getOrDefault(voteHash, "Unknown");
-            String summary = "Candidate " + candidate + " → Count: " + count + " | Hashed Vote: " + voteHash;
-            CryptoUtils.logToFile(summary);
-            System.out.println(summary);
+            CryptoUtils.logToFile(candidateName + " → Count: " + count);
+            System.out.println(candidateName + " → Count: " + count);
+
+            if (count > maxVotes) {
+                maxVotes = count;
+                winner = candidateName;
+            }
         }
+        System.out.println("\n🎉 Winner is: " + winner + " with " + maxVotes + " votes!");
     }
 }

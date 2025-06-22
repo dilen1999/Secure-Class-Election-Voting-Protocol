@@ -8,11 +8,20 @@ import service.AuthService;
 import java.security.KeyPair;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
+import java.util.Map;
+import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
+        
+        // Display candidate list
+        System.out.println("===== Candidates for Class Monitor =====");
+        System.out.println("1. Alice");
+        System.out.println("2. Bob");
+        System.out.println("3. Charlie");
+        System.out.println("========================================");
+
 
         // Load voter registry
         Map<String, String> voterRegistry = AuthService.getVoterRegistry();
@@ -24,9 +33,14 @@ public class Main {
         // Collector setup
         Collector collector = new Collector(collectorKeyPair.getPrivate());
 
-        // Define valid vote options
-        Set<String> validVotes = Set.of("A", "B", "C");
-        System.out.println(" Vote Options: A, B, C");
+        
+        // Map to store candidate name -> hashed vote
+        Map<String, String> candidateHashMap = new HashMap<>();
+        String[] candidates = {"Alice", "Bob", "Charlie"};
+
+        for (String candidate : candidates) {
+            candidateHashMap.put(CryptoUtils.hash(candidate), candidate);
+        }
 
         // Simulate multiple voters (loop)
         boolean continueVoting = true;
@@ -68,6 +82,6 @@ public class Main {
         }
 
         // Show final results
-        collector.showResults();
+        collector.showResults(candidateHashMap);
     }
 }
